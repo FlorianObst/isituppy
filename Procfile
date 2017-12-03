@@ -1,1 +1,1 @@
-web: python isitup.py
+web: python app.py
